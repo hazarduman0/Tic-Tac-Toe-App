@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="x">X</string>
+    <string name="o">O</string>
+    <string name="start">Start!</string>
+    <string name="pleaseChoose">Please Choose One</string>
+    <string name="singleMode">Single Mode</string>
+    <string name="withFriend">With Friend</string>
+    <string name="chooseMode">Choose your play mode</string>
+    <string name="againstBot">Against Bot</string>
+    <string name="pickSide">Pick your side</string>
+    <string name="continueStr">Continue</string>
+    <string name="vs">Vs.</string>
+</resources>
